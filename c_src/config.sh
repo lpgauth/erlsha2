@@ -1,6 +1,8 @@
 #!/usr/bin/env sh
 
 CONFIG_HDR=$1
+CC=$2
+CFLAGS=$3
 
 set -e
 
